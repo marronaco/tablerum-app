@@ -1,0 +1,7 @@
+{
+  "name": "tablerum-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

@@ -14,7 +14,8 @@ export class HomePage implements OnInit {
   ngOnInit(): void {
       const browserInstance = this.browser.create(
         //"http://tablerummagento.com/",
-        "https://tablerum.com/",
+        "http://192.168.0.39",
+        //"https://tablerum.com/",
         "_self",
         "location=no,hidenavigationbuttons=true,hideurlbar=true,zoom=no"
       );
